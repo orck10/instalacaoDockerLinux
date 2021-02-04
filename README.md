@@ -1,1 +1,1 @@
-Script Simples para instalação do docker, util de varias maneiras.
+Script Simples para instalação do docker no Ubuntu, util de varias maneiras.
